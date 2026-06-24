@@ -1,6 +1,0 @@
-=== LOG AKTIVITAS SISTEM INFORMASI GEOGRAFIS ===
-[2026-06-24 15:44:30] Cari: 'Lumpia' | Ditemukan: 1 lokasi.
-[2026-06-24 15:44:30] Cari: 'Wisata Alam' | Ditemukan: 3 lokasi.
-[2026-06-24 15:44:30] Cari: 'Gereja' | Ditemukan: 0 lokasi.
-[2026-06-24 15:45:41] Cari: 'Taman' | Hasil: 0 ditemukan.
-[2026-06-24 15:46:41] Cari: '4' | Hasil: 0 ditemukan.
