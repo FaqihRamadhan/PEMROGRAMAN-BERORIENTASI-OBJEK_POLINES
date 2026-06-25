@@ -6,3 +6,16 @@
 [2026-06-24 16:02:03] [buat_peta_lokasi_folium] Peta 'peta_interaktif_semarang.html' berhasil dibuat dengan 10 marker.
 [2026-06-24 16:02:03] [buat_peta_lokasi_folium] Memulai pembuatan peta 'peta_kedua.html' dengan 10 lokasi.
 [2026-06-24 16:02:03] [buat_peta_lokasi_folium] Peta 'peta_kedua.html' berhasil dibuat dengan 10 marker.
+[2026-06-25 08:30:32] [buat_peta_lokasi_folium] Memulai pembuatan peta 'peta_interaktif_semarang.html' dengan 10 lokasi.
+[2026-06-25 08:30:32] [buat_peta_lokasi_folium] Peta 'peta_interaktif_semarang.html' berhasil dibuat dengan 10 marker.
+[2026-06-25 08:30:32] [buat_peta_lokasi_folium] Memulai pembuatan peta 'peta_kedua.html' dengan 10 lokasi.
+[2026-06-25 08:30:32] [buat_peta_lokasi_folium] Peta 'peta_kedua.html' berhasil dibuat dengan 10 marker.
+[2026-06-25 08:34:15] [main] Total objek berhasil dibuat: 16 lokasi.
+[2026-06-25 08:34:15] [buat_peta_lokasi_folium] Memulai pembuatan peta 'peta_interaktif_semarang.html' dengan 16 lokasi.
+[2026-06-25 08:34:15] [buat_peta_lokasi_folium] Ringkasan tipe lokasi: {'TempatWisata': 6, 'TempatIbadah': 2, 'Kuliner': 2, 'Museum': 2, 'TamanKota': 2, 'KantorPemerintahan': 2}
+[2026-06-25 08:34:15] [buat_peta_lokasi_folium] Objek peta dibuat, berpusat di (-6.9840, 110.4105).
+[2026-06-25 08:34:15] [buat_peta_lokasi_folium] Peta 'peta_interaktif_semarang.html' berhasil dibuat dengan 16 dari 16 marker.
+[2026-06-25 08:34:15] [buat_peta_lokasi_folium] Memulai pembuatan peta 'peta_kedua.html' dengan 16 lokasi.
+[2026-06-25 08:34:15] [buat_peta_lokasi_folium] Ringkasan tipe lokasi: {'TempatWisata': 6, 'TempatIbadah': 2, 'Kuliner': 2, 'Museum': 2, 'TamanKota': 2, 'KantorPemerintahan': 2}
+[2026-06-25 08:34:15] [buat_peta_lokasi_folium] Objek peta dibuat, berpusat di (-6.9840, 110.4105).
+[2026-06-25 08:34:15] [buat_peta_lokasi_folium] Peta 'peta_kedua.html' berhasil dibuat dengan 16 dari 16 marker.
